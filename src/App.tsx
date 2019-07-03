@@ -1,26 +1,34 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+
+import { Layout, Breadcrumb, Carousel } from "antd";
+import HeaderWithStyled from "./Layout/HeaderWithColor";
+import MenuList from "./Menu/MenuList";
+import { Switch, Route } from "react-router-dom";
+import { BackTop } from 'antd';
+import Banner from "./Layout/Banner";
+import ContactUs from './ContactUs/ContactUs'
+
+
+const { Content, Footer } = Layout;
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <Layout>
+        <Banner />
+        <HeaderWithStyled />
+        <Content style={{ padding: "0 50px" }}>
+          <Breadcrumb style={{ margin: "16px 0" }} />
+          <div style={{ background: "#fff", minHeight: 280 }}>
+              {/*<Route exact path="/" component={MenuList} />*/}
+              <div style={{ height: "100vh" }}></div>
+            <hr/>
+            <ContactUs />
+          </div>
+        </Content>
+        <Footer />
+        <BackTop />
+      </Layout>
     );
   }
 }
