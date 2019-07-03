@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ed62b9-cf1b-486e-a81e-dc42a0776254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/1-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/10-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/11-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/12-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/13-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/14-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/15-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/16-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/17-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/18-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/19-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/2-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/20-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/21-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/3-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/4-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/5-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/6-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/7-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/8-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/9-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_American_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_Aussie_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_ChickenWings_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_ChickenWrap_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_Hero_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_Nachos_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_Quesadilla_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/TheBurgerJoint_VeggieBueger_2880x2304-squashed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logotheburgerjoint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+            <state relative-caret-position="184">
+              <caret line="31" column="68" lean-forward="true" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -90,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/App.tsx" />
         <option value="$PROJECT_DIR$/src/Layout/Banner.tsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -151,6 +115,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -215,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562164394623</updated>
-      <workItem from="1562164395805" duration="9467000" />
+      <workItem from="1562164395805" duration="9649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9467000" />
+    <option name="totallyTimeSpent" value="9649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -393,8 +358,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+        <state relative-caret-position="184">
+          <caret line="31" column="68" lean-forward="true" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
