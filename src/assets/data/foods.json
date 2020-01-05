@@ -1,0 +1,494 @@
+{
+  "foods": [
+    {
+      "_id": "5d1e4417c7acb722314e015b",
+      "category": "burger",
+      "description": "",
+      "id": "1",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$13",
+      "title": "Aussie Burger",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4417c7acb722314e0166",
+      "category": "burger",
+      "description": "",
+      "id": "2",
+      "img": "TheBurgerJoint_American_2880x2304-squashed.jpg",
+      "price": "$13.5",
+      "title": "USA Burger",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4417c7acb722314e0171",  
+      "category": "burger",
+      "description": "",
+      "id": "3",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$12.5",
+      "title": "Bacon and Cheese",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4417c7acb722314e017c",
+      "category": "burger",
+      "description": "",
+      "id": "4",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$9",
+      "title": "Classic Beef Burger",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0187",
+      "category": "burger",
+      "description": "",
+      "id": "5",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$10",
+      "title": "Cheese Burger",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0192",
+      "category": "burger",
+      "description": "",
+      "id": "6",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$12.5",
+      "title": "Chilli Burger/ Wrap",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e019e",
+      "category": "burger",
+      "description": "",
+      "id": "7",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$14",
+      "title": "Blue Cheese Burger/ Wrap",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01a9",
+      "category": "burger",
+      "description": "",
+      "id": "8",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$13",
+      "title": "Hawaiian Beef Burger/ Wrap",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01b4",
+      "category": "burger",
+      "description": "",
+      "id": "9",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$13.5",
+      "title": "Mexican Beef Burger/ Wrap",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01bf",
+      "category": "burger",
+      "description": "",
+      "id": "10",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$14",
+      "title": "Greek Lamb Burger/ Wrap",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01ca",
+      "category": "burger",
+      "description": "",
+      "id": "11",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$15",
+      "title": "Steak Burger/ Wrap",
+      "type": "beef"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01d5",
+      "category": "burger",
+      "description": "",
+      "id": "12",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$13",
+      "title": "Hawaiian Chicken Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01e0",
+      "category": "burger",
+      "description": "",
+      "id": "13",
+      "img": "TheBurgerJoint_Aussie_2880x2304-squashed.jpg",
+      "price": "$13.5",
+      "title": "Mexican Chicken Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01eb",
+      "category": "burger",
+      "description": "",
+      "id": "14",
+      "img": "4-squashed.jpg",
+      "price": "$10",
+      "title": "Grilled Chicken Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e01f6",
+      "category": "burger",
+      "description": "",
+      "id": "15",
+      "img": "3-squashed.jpg",
+      "price": "$12",
+      "title": "Schnitzel Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0201",
+      "category": "burger",
+      "description": "",
+      "id": "16",
+      "img": "10-squashed.jpg",
+      "price": "$14",
+      "title": "Spanish Chicken Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e020c",
+      "category": "burger",
+      "description": "",
+      "id": "17",
+      "img": "10-squashed.jpg",
+      "price": "$13",
+      "title": "Teriyaki Chicken Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0217",
+      "category": "burger",
+      "description": "",
+      "id": "18",
+      "img": "10-squashed.jpg",
+      "price": "$12.5",
+      "title": "Chermoula Chicken Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0222",
+      "category": "burger",
+      "description": "",
+      "id": "19",
+      "img": "10-squashed.jpg",
+      "price": "$13.5",
+      "title": "Chicken Caesar Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e022d",
+      "category": "burger",
+      "description": "",
+      "id": "20",
+      "img": "10-squashed.jpg",
+      "price": "$12.5",
+      "title": "Tandoori Chicken Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0238",
+      "category": "burger",
+      "description": "",
+      "id": "21",
+      "img": "10-squashed.jpg",
+      "price": "$12.5",
+      "title": "Satay Chicken Burger/ Wrap",
+      "type": "chicken"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0245",
+      "category": "burger",
+      "description": "",
+      "id": "22",
+      "img": "10-squashed.jpg",
+      "price": "$12.5",
+      "title": "Fish Burger/ Wrap",
+      "type": "fish"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0250",
+      "category": "burger",
+      "description": "",
+      "id": "23",
+      "img": "TheBurgerJoint_VeggieBueger_2880x2304-squashed.jpg",
+      "price": "$13",
+      "title": "Veggie Burger/ Wrap",
+      "type": "fish"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e025b",
+      "category": "burger",
+      "description": "",
+      "id": "24",
+      "img": "10-squashed.jpg",
+      "price": "$10",
+      "title": "Salad Wrap",
+      "type": "fish"
+    },
+    {
+      "_id": "5d1e4418c7acb722314e0266",
+      "category": "burger",
+      "description": "",
+      "id": "25",
+      "img": "10-squashed.jpg",
+      "price": "$12.5",
+      "title": "Haloumi Eggplant Burger/ Wrap",
+      "type": "fish"
+    },
+    {
+      "_id": "5d1e4419c7acb722314e0274",
+      "category": "burger",
+      "description": "",
+      "id": "26",
+      "img": "10-squashed.jpg",
+      "price": "$12",
+      "title": "Falafel Wrap",
+      "type": "fish"
+    },
+    {
+      "_id": "5d1e4419c7acb722314e027f",
+      "category": "mexicana",
+      "description": "",
+      "id": "27",
+      "img": "",
+      "price": "$11",
+      "title": "Cheese",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e028a",
+      "category": "mexicana",
+      "description": "",
+      "id": "28",
+      "img": "",
+      "price": "$11",
+      "title": "Garlic and Cheese",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e0295",
+      "category": "mexicana",
+      "description": "",
+      "id": "29",
+      "img": "",
+      "price": "Half size $11, Full size $14",
+      "title": "Chili Bean and Cheese",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02a0",
+      "category": "mexicana",
+      "description": "",
+      "id": "30",
+      "img": "",
+      "price": "Half size $11, Full size $15",
+      "title": "Mushroom and Cheese",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02ab",
+      "category": "mexicana",
+      "description": "",
+      "id": "31",
+      "img": "",
+      "price": "Half size $12, Full size $16",
+      "title": "Chicken and Cheese",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02b7",
+      "category": "mexicana",
+      "description": "",
+      "id": "32",
+      "img": "TheBurgerJoint_Quesadilla_2880x2304-squashed.jpg",
+      "price": "Half size $15, Full size $20",
+      "title": "TomYum Squid Quesadilla",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02c2",
+      "category": "mexicana",
+      "description": "",
+      "id": "33",
+      "img": "",
+      "price": "Half size $12, Full size $16",
+      "title": "Pepperoni and Mozzarella",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02cd",
+      "category": "mexicana",
+      "description": "",
+      "id": "34",
+      "img": "6-squashed.jpg",
+      "price": "Small $10, Large $14.5",
+      "title": "Nachos",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02db",
+      "category": "side",
+      "description": "",
+      "id": "35",
+      "img": "TheBurgerJoint_ChickenWings_2880x2304-squashed.jpg",
+      "price": "3pc $5, 6pc $8, 12pc $15",
+      "title": "Hot and Spicy Wings",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02e7",
+      "category": "side",
+      "description": "",
+      "id": "36",
+      "img": "TheBurgerJoint_ChickenWings_2880x2304-squashed.jpg",
+      "price": "3pc $5, 6pc $8, 12pc $15",
+      "title": "Garlic Soy Wings",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02f2",
+      "category": "side",
+      "description": "",
+      "id": "37",
+      "img": "18-squashed.jpg",
+      "price": "3 for $8, 5 for $12",
+      "title": "Cheeseburger Springrolls",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e02ff",
+      "category": "side",
+      "description": "",
+      "id": "38",
+      "img": "18-squashed.jpg",
+      "price": "3 for $8, 5 for $12",
+      "title": "Nachos Springrolls",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e030d",
+      "category": "side",
+      "description": "",
+      "id": "39",
+      "img": "",
+      "price": "$8",
+      "title": "Homemade falafel balls served with hummus (4pcs)",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e0318",
+      "category": "side",
+      "description": "",
+      "id": "40",
+      "img": "21-squashed.jpg",
+      "price": "$6.5",
+      "title": "Mac n Cheese Bites",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e0323",
+      "category": "side",
+      "description": "",
+      "id": "41",
+      "img": "",
+      "price": "$5",
+      "title": "Garlic Bread",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e032e",
+      "category": "side",
+      "description": "",
+      "id": "42",
+      "img": "",
+      "price": "$14.5",
+      "title": "Fish and chips",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e0339",
+      "category": "side",
+      "description": "",
+      "id": "43",
+      "img": "",
+      "price": "$14.5",
+      "title": "Schnitzel and chips served with aioli",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e0344",
+      "category": "side",
+      "description": "",
+      "id": "44",
+      "img": "",
+      "price": "$12.5",
+      "title": "Grilled Chicken and Chips with peri peri and aioli",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e034f",
+      "category": "chip",
+      "description": "",
+      "id": "45",
+      "img": "",
+      "price": "Small $4, Medium $5.5, Large $7.5, Gravy extra $3",
+      "title": "Chip",
+      "type": ""
+    },
+    {
+      "_id": "5d1e4419c7acb722314e035a",
+      "category": "chip",
+      "description": "",
+      "id": "46",
+      "img": "",
+      "price": "Medium $7, Large $9",
+      "title": "Wedges",
+      "type": ""
+    },
+    {
+      "_id": "5d1e441ac7acb722314e0365",
+      "category": "salad",
+      "description": "",
+      "id": "47",
+      "img": "15-squashed.jpg",
+      "price": "$10",
+      "title": "Garden Salad",
+      "type": ""
+    },
+    {
+      "_id": "5d1e441ac7acb722314e0370",
+      "category": "salad",
+      "description": "",
+      "id": "48",
+      "img": "15-squashed.jpg",
+      "price": "$10",
+      "title": "Caesar Salad",
+      "type": ""
+    },
+    {
+      "_id": "5d1e441ac7acb722314e037b",
+      "category": "salad",
+      "description": "",
+      "id": "49",
+      "img": "13-squashed.jpg",
+      "price": "$10",
+      "title": "Greek Salad",
+      "type": ""
+    }
+  ]
+}
