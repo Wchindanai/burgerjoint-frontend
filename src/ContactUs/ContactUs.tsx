@@ -14,7 +14,7 @@ class ContactUs extends Component {
           <Col lg={{ span: "6", offset: "6" }} xs={{ span: "15", offset: "6" }}>
             <Title level={3}>
               <a href="tel:+61-9360-1845">
-                <Icon type="phone" theme="twoTone"/> : +61 9360-1845
+                <Icon type="phone" theme="twoTone"/> : 09-360-1845
               </a>
             </Title>
             <Title level={3}>

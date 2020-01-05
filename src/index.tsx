@@ -9,15 +9,17 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import * as serviceWorker from './serviceWorker'
 
 const client = new ApolloClient({
-  uri: 'http://localhost:4000/graphql',
+  uri: 'https://asia-east2-theburgerjoint-1562173328860.cloudfunctions.net/app/graphql',
 })
 
 ReactDOM.render(
-  <Router>
-    <Switch>
-      <Route component={App}/>
-    </Switch>
-  </Router>,
+  <ApolloProvider client={client}>
+    <Router>
+      <Switch>
+        <Route component={App}/>
+      </Switch>
+    </Router>
+  </ApolloProvider>,
   document.getElementById('root'),
 )
 

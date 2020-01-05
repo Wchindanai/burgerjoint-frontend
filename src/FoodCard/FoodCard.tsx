@@ -1,6 +1,6 @@
-import React, { Component, SFC } from "react";
-import { Card, Col, Icon } from "antd";
-import { FoodDetail } from "../Model/FoodDetail";
+import React, { Component, SFC } from 'react';
+import { Card, Col, Icon } from 'antd';
+import { FoodDetail } from '../Model/FoodDetail';
 const { Meta } = Card;
 
 interface Props {
@@ -11,10 +11,12 @@ const FoodCard: SFC<Props> = ({ foodDetail }) => (
   <Col span={8}>
     <Card
       style={{ marginTop: 16 }}
-      cover={<img alt={foodDetail.title} src={foodDetail.img} />}
-      actions={[<Icon type="shopping-cart" onClick={e => console.log(e)} />]}
+      cover={<img alt={foodDetail.title} src={`/img/${foodDetail.img}`} />}
     >
-      <Meta title={foodDetail.title} description={foodDetail.description} />
+      <Meta
+        title={foodDetail.title}
+        description={`${foodDetail.description} ${foodDetail.price}`}
+      />
     </Card>
   </Col>
 );
